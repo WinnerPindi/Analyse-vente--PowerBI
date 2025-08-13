@@ -33,7 +33,7 @@ Le rapport final permet :
 - Organisation logique pour faciliter les analyses  
 
 ### Analyse et calculs avancés
-- Création de **mesures DAX** (KPIs, Year-over-Year, variance)  
+- Création de **mesures DAX**   
 - Calcul des **marges de profit** et explication des écarts  
 - Comparaison **ventes réelles vs budget**  
 
@@ -43,3 +43,10 @@ Le rapport final permet :
 - Présentation claire et orientée décision  
 
 ---
+
+### Capture d'écran de la visualisation 
+<img width="1452" height="802" alt="Capture d’écran1" src="https://github.com/user-attachments/assets/f240590f-1bae-4bb4-828c-beaac63db7cb" />
+
+<img width="1455" height="800" alt="Capture d’écran 2" src="https://github.com/user-attachments/assets/3b1889d0-07b1-4d46-a9a7-70ff1398a394" />
+
+<img width="1434" height="802" alt="Capture d’écran3" src="https://github.com/user-attachments/assets/0b7cb361-86c2-4e45-99e8-42e117506ef4" />
